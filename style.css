@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    position: fixed;
+    z-index: 99;
+}
+main{
+    /* padding-left: 200px;
+    padding-right: 50px; */
+    padding:50px 180px;
+}
+
+
+#giant{
+    width: 700px;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.Written{
+    font-size: 25px;
+}
+
+.Email{
+    font-weight: 0
+}
+
+#box{
+    width: 700px;
+    height: 50px;
+}
+
+#subpro{
+    margin-top: -50px;
+    margin-left: 700px;
+}
+
+#sub{
+    background-color: red;
+    font-size: 20px;
+    color: white;
+    border: 0;
+    height: 50px;
+    width: 130px;
+    border-radius: 2px;
+    margin-left: -5px;
+}
+
+#singUp{
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 80px;
+}
+
+/* .footer{ */
+    padding: 20px;
+    width: 100px;
+    display: flex;
+    line-height: 50px;
+}
+
+h1.smach{
+
+}
+.logo svg{
+    width: 100px;
+}
+nav{
+    background-color: white;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    line-height: 50px;
+}
+nav ul li {
+    padding: 3px 12px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.conf{
+    font-size: 20px;
+}
+
+.Aji{
+    color: red;
+    font-size: 17px;
+}
+
+.ruby{
+    color: grey;
+    font-size: 15px;
+}
+
+#Fuzzy{
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.th{
+    color: red;
+}
+
+#bot{
+    font-weight: 50px;
+    color: red;
+    font-size: 18px;
+}
+
+.week{
+    color: grey;
+}
+
+#Watch{
+    font-size: 20px;
+}
+
+#ruby{
+    font-size: 25px
+}
+
+.super{
+    width: 580px;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.redux{
+    color: grey;
+}
+
+.Grab{
+    letter-spacing: 1px;
+    font-size: 21px;
+    width: 590px;
+}
+
+.Kenny{
+    color: red;
+}
+
+.audit{
+    color: grey;
+}
+
+.code{
+    font-size: 22px;
+}
+
+.mat{
+    color: red;
+}
+
+.art{
+    color: grey;
+}
+
+.AI{
+    width: 600px;
+}
+
+.we{
+    width: 620px;
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+.Alex{
+    color: red;
+}
+
+.jim{
+    color: red;
+}
+
+.inte{
+    color: grey;
+}
+
+.Talking{
+    letter-spacing: 1px;
+    font-size: 22px;
+    width: 600px;
+}
+
+.dev{
+    color: grey;
+}
+
+.route{
+    width: 650px;
+}
+
+.deploy{
+    width: 550px;
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+.kub{
+    color: grey;
+}
+
+.Lego{
+    font-size: 22px;
+    width: 600px;
+    letter-spacing: 1px;
+}
+
+.con{
+    color: grey;
+}
+
+
+.uuup{
+    color: black;
+    text-decoration: none;
+}
+a.uuup:hover{
+    text-decoration: none;
+    color: red;
+}
+
+
+
